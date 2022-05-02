@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    background-color: black;
+}
+
+.logo {
+    color: white;
+    padding: 20px 50px;
+    margin: 30px;
+    position: absolute;
+    border: 1px solid white;
+    font-size: 30px;
+}
+
+.botao {
+    color: white;
+    position: absolute;
+    border: 1px solid white;
+    padding: 20px;
+    top: 40px;
+    right: 50px;
+    width: 200px;
+    float: right;
+    border-radius: 15px;
+}
+
+.menu {
+    position: absolute;
+    top: 40px;
+    left: 45%;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
