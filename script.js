@@ -1,7 +1,7 @@
 function zap(){
-    window.open('http://www.google.com')
+    window.location.href = 'http://www.google.com'
 }
 
 function comp(){
-    window.open('http://www.google.com')
+    window.location.href = 'http://www.google.com'
 }
