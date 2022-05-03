@@ -1,7 +1,7 @@
 function zap(){
-    window.open('_blank')
+    window.open('http://www.google.com')
 }
 
 function comp(){
-    window.open('_blank')
+    window.open('http://www.google.com')
 }
